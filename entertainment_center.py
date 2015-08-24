@@ -3,6 +3,7 @@ import fresh_tomatoes
 import media
 
 
+# These lines generate movies
 tiny_times = media.Movie("Tiny Times",
                          "Tell friendship among four girls",
                          "https://importanceofbeinggay.files.wordpress.com/2013/08/tiny-times.jpg",
@@ -21,6 +22,7 @@ kung_fu_panda = media.Movie("Kung Fu Panda",
                             "https://youtu.be/LFKAHc0bJrU"
                             )
 
+# Append each movie to the movie list
 movies = [tiny_times, miss_granny, kung_fu_panda]
 fresh_tomatoes.open_movies_page(movies)
 
