@@ -1,0 +1,18 @@
+
+INTRODUCTION
+------------
+The program display movie's name, picture and trailers
+
+
+REQUIREMENT
+------------
+Python 2.7
+Internet access
+
+
+INSTALLATION
+------------
+don't need any installation,
+run the command:
+python {PATH_TO_MOVIE_FOLDER}/entertainment_center.py
+
